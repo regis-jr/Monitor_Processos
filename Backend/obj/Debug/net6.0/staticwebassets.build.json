@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mwHos2rCgNpes3ycLSzHFTW267tL5aqTskWain1eiA8=",
+  "Source": "ProcessMonitorBackend",
+  "BasePath": "_content/ProcessMonitorBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
