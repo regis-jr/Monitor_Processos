@@ -1,0 +1,31 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #999595; 
+  padding: 8px;
+  text-align: center; 
+}
+
+th {
+  background-color: #c7c5c5;
+  position: sticky; 
+  top: 0; 
+  z-index: 1; 
+}
+
+tr {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+  cursor: default;
+}
+
+th:hover {
+  cursor: pointer;
+}
+  

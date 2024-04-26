@@ -1,0 +1,18 @@
+<table>
+    <thead>
+      <tr>
+        <th (click)="sort('id')">ID</th>
+        <th (click)="sort('name')">Processo</th>
+        <th (click)="sort('cpuUsage')">Uso da CPU</th>
+        <th (click)="sort('memoryUsage')">Uso de Memória</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let process of processes">
+        <td>{{ process.id }}</td>
+        <td>{{ process.name }}</td>
+        <td>{{ process.cpuUsage.toFixed(1) }}%</td>
+        <td>{{ convertBytestoMB(process.memoryUsage).toFixed(1) }}MB</td>
+      </tr>
+    </tbody>
+  </table>
