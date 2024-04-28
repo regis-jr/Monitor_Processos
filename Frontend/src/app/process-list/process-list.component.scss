@@ -16,16 +16,27 @@ th {
   z-index: 1; 
 }
 
+thead th {
+  position: sticky;
+  top: 0;
+}
+
+tbody {
+  max-height: 400px; 
+  overflow-y: auto; 
+}
+
 tr {
   background-color: #f2f2f2;
 }
 
 tr:hover {
-  background-color: #ddd;
+  background-color: #5f73e2;
   cursor: default;
 }
 
 th:hover {
   cursor: pointer;
 }
+
   

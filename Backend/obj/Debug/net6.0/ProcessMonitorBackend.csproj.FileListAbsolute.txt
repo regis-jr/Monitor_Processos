@@ -94,3 +94,4 @@ C:\Users\Jessica\Desktop\Monitor_Processos\Backend\obj\Debug\net6.0\refint\Proce
 C:\Users\Jessica\Desktop\Monitor_Processos\Backend\obj\Debug\net6.0\ProcessMonitorBackend.pdb
 C:\Users\Jessica\Desktop\Monitor_Processos\Backend\obj\Debug\net6.0\ProcessMonitorBackend.genruntimeconfig.cache
 C:\Users\Jessica\Desktop\Monitor_Processos\Backend\obj\Debug\net6.0\ref\ProcessMonitorBackend.dll
+C:\Users\Jessica\Desktop\Monitor_Processos\Backend\obj\Debug\net6.0\ProcessMonitorBackend.sourcelink.json
