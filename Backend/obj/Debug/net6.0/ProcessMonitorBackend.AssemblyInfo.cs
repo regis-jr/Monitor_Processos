@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProcessMonitorBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffc7b1961456f3a4a12a7959fcca078f87729623")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6ad0a75486e994946b988ff111a6ce898567547")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProcessMonitorBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProcessMonitorBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
